@@ -1,4 +1,4 @@
-This Mod adds a Granturismo 3 Hud to the Game.
+This Mod adds a Granturismo 3 Hud to Carx Drift Racing Online using the KSL mod loader.
 
 Key features:
 - MPH and KMH Support
